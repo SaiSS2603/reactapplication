@@ -1,5 +1,3 @@
-﻿### FOLLOW THIS AND INITIALIZE THE SITE BEFORE TRAVERSING INTO AZUREDEVOPS CLOUD. 
-
 ### For Frontend 
 - follow the command to run the client site: 
 
