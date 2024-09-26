@@ -42,7 +42,7 @@ PAYMENT_SECRET_KEY = stripe_secret_key
 
 
 <!-- LOGIN CREDS  -->
-USER NAME:user123@segenai.com
+USER NAME:user123@mail.com
 PASSWORD:user123
 
 
